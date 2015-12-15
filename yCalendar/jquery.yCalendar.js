@@ -1,5 +1,5 @@
 ;(function($) {
-	$.fn.yCalendar = function(options) {
+	$.fn.yCalendar = function(options, callback) {
 		
 		// 设置容器的style
 		$(this).css("display","inline-block");
@@ -45,6 +45,11 @@
 				return false;
 			}
 			$(this).siblings('.yCal-text').val(_year);
+
+			// 添加回调
+			if(callback){
+				callback();
+			}
 		});
 		$(this).find('.yCal-btn-add').click(function() {
 			if (_year < obj.max_year){
@@ -53,6 +58,11 @@
 				return false;	
 			}
 			$(this).siblings('.yCal-text').val(_year);
+
+			// 添加回调
+			if(callback){
+				callback();
+			}
 		});
 	};
 })(jQuery);
