@@ -18,12 +18,14 @@ $('element').yCalendar();
 |min_year|最小年份|1978|
 |max_year|最大年份|2050|
 
-example
+Example
 ```
 $('#demo1').yCalendar({
 	text_year: 2013,
 	min_year: 2010,
 	max_year: 2020
+}, function(){
+	alert('callback');
 });
 ```
 
