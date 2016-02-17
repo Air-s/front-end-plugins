@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>yCalender</title>
+	<style>
+		* {padding: 0; margin: 0;}
+	</style>
+</head>
+<body>
+	<div id="demo1"></div>
+	<div class="demo2"></div>
+	<div class="demo3"></div>
+
+	<script src="src/jquery.min.js"></script>
+	<script src="src/jquery.yCalendar.js"></script>
+	<script>
+ 		$(function() {
+			$('#demo1').yCalendar({
+				text_year: 2013,
+				min_year: 2010,
+				max_year: 2020
+			}, function(){
+				alert('callback');
+			});
+
+			$('.demo2').yCalendar({
+				min_year: 2010,
+				text_year: 2014
+			});
+
+			$('.demo3').yCalendar({
+				text_year: 2015,
+				max_year: 2020
+			});
+		});
+	</script>
+</body>
+</html>
