@@ -1,4 +1,4 @@
-# plugin-yCalendar
+# jquery-yCalendar
 jQuery plugin | 年份选择插件
 
 ## 1. Preview
