@@ -2,7 +2,7 @@
 jQuery plugin | 年份选择插件
 
 ## 1. Preview
-![01](assets/01.gif)
+![gifshow](assets/01.gif)
 
 ## 2. How to use
 
