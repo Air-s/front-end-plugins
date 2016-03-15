@@ -30,4 +30,4 @@ $('#demo1').yCalendar({
 ```
 
 ## 3. License
-MIT.
+MIT
