@@ -1,33 +1,9 @@
-# jquery-yCalendar
-jQuery plugin | 年份选择插件
+# front-end-plugins
 
-## 1. Preview
-![gifshow](assets/01.gif)
+## List
 
-## 2. How to use
+* [jquery-yCalendar](./jquery-yCalendar) 一个简单的年份左右选择插件
 
-### 调用
-```
-$('element').yCalendar();
-```
 
-### 参数
-|name|describe|default|
-|---|---|---|
-|text_year|显示年份|当前年份|
-|min_year|最小年份|1978|
-|max_year|最大年份|2050|
-
-Example
-```
-$('#demo1').yCalendar({
-	text_year: 2013,
-	min_year: 2010,
-	max_year: 2020
-}, function(){
-	alert('callback');
-});
-```
-
-## 3. License
+## License
 [MIT License](https://dopppler.mit-license.org/) @dopppler
