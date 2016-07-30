@@ -8,4 +8,5 @@
 
 ## Snippets
 
-
+* [toDBC(str)](./snippets) 转全角字符
+* [toSBC(str)](./snippets) 转半角字符
