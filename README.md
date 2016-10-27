@@ -1,6 +1,6 @@
 # front-end-plugins
 
-自己写的或者收集的一些前端插件汇总。
+收集的一些前端控件汇总。
 
 ## 目录
 
@@ -10,7 +10,6 @@
 
 * **jQuery cxCalendar** [GitHub](https://github.com/ciaoca/cxCalendar/) | [Doc](http://code.ciaoca.com/jquery/cxCalendar/) | [Demo](http://code.ciaoca.com/jquery/cxCalendar/demo/) 基于 jQuery 的日期选择插件，灵活自由，可以自定义外观，日期的范围，返回的格式等。
 * **layDate** [GitHub](https://github.com/sentsin/laydate) | [Doc](http://laydate.layui.com/) | [Demo](http://laydate.layui.com/) 基于原生 JavaScript 精心雕琢，兼容了包括 IE6 在内的所有主流浏览器。
-* **calendar** [GitHub](https://github.com/zhangchen2397/calendar) | Doc | [Demo](http://zhangchen2397.github.io/calendar/demo/) 适用于移动 Web 端开发，轻量简洁，灵活配置，如项目中使用 jqmobi 或 zepto 作为底层库，可直接使用。
 * **My97 DatePicker** GitHub | [Doc](http://www.my97.net/) | [Demo](http://www.my97.net/dp/demo/index.htm) 功能非常全面强大的日期控件。
 
 ## 图表库
@@ -22,7 +21,7 @@
 ## 3D
 
 * **arbor.js** [GitHub](https://github.com/samizdatco/arbor) | [Doc](http://arborjs.org/introduction) | [Demo](http://arborjs.org/) A graph visualization library using web workers and jQuery.
-* **three.js** [GitHub](https://github.com/mrdoob/three.js/) | [Doc](https://threejs.org/) | [Demo](https://threejs.org/examples/) The aim of the project is to create an easy to use, lightweight, 3D library. The library provides <canvas>, <svg>, CSS3D and WebGL renderers.
+* **three.js** [GitHub](https://github.com/mrdoob/three.js/) | [Doc](https://threejs.org/) | [Demo](https://threejs.org/examples/) The aim of the project is to create an easy to use, lightweight, 3D library. The library provides canvas, svg, CSS3D and WebGL renderers.
 
 
 
