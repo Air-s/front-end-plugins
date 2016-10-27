@@ -2,14 +2,30 @@
 
 自己写的或者收集的一些前端插件汇总。
 
-## Plugins
+## 目录
 
-* [jquery-yCalendar](./jquery-yCalendar) 一个简单的年份左右选择插件
-* [jquery.log.js](./jquery-tools/jquery.log.js) 封装了调用时间的 jQuery 版本 console.log()
-* [jquery.placeholder.js](./jquery-toos/jquery.placeholder.js) 能使低版本 IE 浏览器兼容 HTML5 的 placeholder 属性
-* [jquery.pluginTemplate.js](./jquery-toos/jquery.pluginTemplate.js) jQuery 插件编写模板
+// todo
 
-## Snippets
+## 时间日期
 
-* [toDBC(str)](./snippets) 转全角字符
-* [toSBC(str)](./snippets) 转半角字符
+* **jQuery cxCalendar** [GitHub](https://github.com/ciaoca/cxCalendar/) | [Doc](http://code.ciaoca.com/jquery/cxCalendar/) | [Demo](http://code.ciaoca.com/jquery/cxCalendar/demo/) 基于 jQuery 的日期选择插件，灵活自由，可以自定义外观，日期的范围，返回的格式等。
+* **layDate** [GitHub](https://github.com/sentsin/laydate) | [Doc](http://laydate.layui.com/) | [Demo](http://laydate.layui.com/) 基于原生 JavaScript 精心雕琢，兼容了包括 IE6 在内的所有主流浏览器。
+* **calendar** [GitHub](https://github.com/zhangchen2397/calendar) | Doc | [Demo](http://zhangchen2397.github.io/calendar/demo/) 适用于移动 Web 端开发，轻量简洁，灵活配置，如项目中使用 jqmobi 或 zepto 作为底层库，可直接使用。
+* **My97 DatePicker** GitHub | [Doc](http://www.my97.net/) | [Demo](http://www.my97.net/dp/demo/index.htm) 功能非常全面强大的日期控件。
+
+## 图表库
+
+* **ECharts** [GitHub](https://github.com/ecomfe/echarts) | [Doc](http://echarts.baidu.com/index.html) | [Demo](http://echarts.baidu.com/examples.html) 一个纯 JavaScript 的图表库，可以流畅的运行在 PC 和移动设备上，兼容当前绝大部分浏览器，底层依赖轻量级的 Canvas 类库 ZRender，提供直观，生动，可交互，可高度个性化定制的数据可视化图表。
+* **HighCharts** GitHub | [Doc](http://www.hcharts.cn/) | [Demo](http://www.hcharts.cn/demo/highcharts) 一个用纯 JavaScript 编写的一个图表库，能够很简单便捷在 Web 网站或是 Web 应用程序添加交互性的图表，并且免费提供给个人学习、个人网站和非商业用途使用。
+* **ichartjs** [GitHub](https://github.com/wanghetommy/ichartjs) | [Doc](http://www.ichartjs.com/) | [Demo](http://www.ichartjs.com/samples/index.html) 一款基于 HTML5 的图形库，使用纯 JavaScript 语言，利用 HTML5 的 Canvas 标签绘制各式图形。
+
+## 3D
+
+* **arbor.js** [GitHub](https://github.com/samizdatco/arbor) | [Doc](http://arborjs.org/introduction) | [Demo](http://arborjs.org/) A graph visualization library using web workers and jQuery.
+* **three.js** [GitHub](https://github.com/mrdoob/three.js/) | [Doc](https://threejs.org/) | [Demo](https://threejs.org/examples/) The aim of the project is to create an easy to use, lightweight, 3D library. The library provides <canvas>, <svg>, CSS3D and WebGL renderers.
+
+
+
+
+
+
