@@ -4,7 +4,11 @@
 
 ## 目录
 
-// todo
+* 时间日期
+* 图标库
+* 3D
+* 树
+* 幻灯箱
 
 ## 时间日期
 
@@ -23,8 +27,16 @@
 * **arbor.js** [GitHub](https://github.com/samizdatco/arbor) | [Doc](http://arborjs.org/introduction) | [Demo](http://arborjs.org/) A graph visualization library using web workers and jQuery.
 * **three.js** [GitHub](https://github.com/mrdoob/three.js/) | [Doc](https://threejs.org/) | [Demo](https://threejs.org/examples/) The aim of the project is to create an easy to use, lightweight, 3D library. The library provides canvas, svg, CSS3D and WebGL renderers.
 
+## 树
 
+* **zTree** GitHub | [Doc](http://www.treejs.cn/) | [Demo](http://www.treejs.cn/v3/demo.php#_101) 一个依靠 jQuery 实现的多功能“树插件”，优异的性能、灵活的配置、多种功能的组合式 zTree 最大优点。
 
+## 幻灯箱
 
+* **Lightview** GitHub | [Doc](http://projects.nickstakenburg.com/lightview) | [Demo](http://projects.nickstakenburg.com/lightview) The jQuery Lightbox.
+* **Pirobox** GitHub | [Doc](http://www.pirolab.it/pirobox/) | [Demo](http://www.pirolab.it/pirobox/) An amazing lightbox!
 
+## 富文本编辑器
+
+* **wangEditor** [GitHub](https://github.com/wangfupeng1988/wangEditor/) | [Doc](http://www.kancloud.cn/wangfupeng/wangeditor2/113961) | [Demo](http://www.wangeditor.com/index.html) 基于 JavaScript 和 CSS 开发的 Web 富文本编辑器，轻量、简洁、易用、开源免费。
 
