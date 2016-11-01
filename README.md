@@ -4,11 +4,31 @@
 
 ## 目录
 
+* UI 框架
 * 时间日期
 * 图标库
 * 3D
 * 树
 * 幻灯箱
+* 富文本编辑器
+* 触摸滑动
+* 代码高亮
+* 弹层
+
+
+
+
+## UI 框架
+
+* **Bootstrap** [GitHub](https://github.com/twbs/bootstrap) | [Doc](http://www.bootcss.com/) | [Demo](http://expo.bootcss.com/) 简洁、直观、强悍的前端开发框架，让 web 开发更迅速、简单。
+* **Semantic UI** [GitHub](https://github.com/semantic-org/semantic-ui/) | [Doc](http://semantic-ui.com/) | [Demo](http://semantic-ui.com/introduction/getting-started.html) User Interface is the language of the web. 	
+* **NEC** GitHub | [Doc](http://nec.netease.com/) | [Demo](http://nec.netease.com/case) 网易出品，更好的 CSS 方案。
+* **ZUI** [GitHub](https://github.com/easysoft/zui) | [Doc](http://zui.sexy/) | [Demo](http://zui.sexy/#basic/download) 一个基于 Bootstrap 深度定制开源前端实践方案，帮助你快速构建现代跨屏应用。
+* **Amaze UI** [GitHub](https://github.com/amazeui/amazeui/) | [Doc](http://amazeui.org/) | [Demo](http://amazeui.org/showcase/) 中国首个开源 HTML5 跨屏前端框架。
+* **Frozen UI** [GitHub](https://github.com/frozenui/frozenui) | [Doc](http://frozenui.github.io/) | [Demo](http://frozenui.github.io/frozenui/demo/index.html) 专注于移动 Web 的 UI 框架。
+* **Ant Design** [GitHub](https://github.com/ant-design/ant-design) | [Doc](https://ant.design/) | [Demo](https://ant.design/docs/practice/cases) 一个 UI 设计语言。
+* **Foundation** [GitHub](https://github.com/zurb/foundation-sites) | [Doc](http://foundation.zurb.com/) | [Demo](http://zurb.com/responsive) The most advanced responsive front-end framework in the world.
+
 
 ## 时间日期
 
@@ -40,3 +60,17 @@
 
 * **wangEditor** [GitHub](https://github.com/wangfupeng1988/wangEditor/) | [Doc](http://www.kancloud.cn/wangfupeng/wangeditor2/113961) | [Demo](http://www.wangeditor.com/index.html) 基于 JavaScript 和 CSS 开发的 Web 富文本编辑器，轻量、简洁、易用、开源免费。
 
+## 触摸滑动
+
+* **Swiper** GitHub | [Doc](http://www.swiper.com.cn/) | [Demo](http://www.swiper.com.cn/demo/index.html) 开源、免费、强大的移动端触摸滑动插件。
+
+* **TouchSlide** GitHub | [Doc](http://www.superslide2.com/touchSlide/) | [Demo](http://www.superslide2.com/touchSlide/demo.html) TouchSlide 是纯javascript打造的触屏滑动特效插件，面向手机、平板电脑等移动终端，
+能实现触屏焦点图、触屏Tab切换、触屏多图切换等常用效果。
+
+## 代码高亮
+
+* **laycode** GitHub | [Doc](http://sentsin.com/layui/laycode/) | [Demo](http://sentsin.com/layui/laycode/) laycode是一款轻量级的网页代码修饰器，她通常服务于程序员的技术分享，可方便地让您的演示代码得到更美地展示。
+
+## 弹层
+
+* **layer** [GitHub](https://github.com/sentsin/layer/) | [Doc](http://layer.layui.com/) | [Demo](http://layer.layui.com/) 一个让你想到即可做到的 Web 弹窗/层 解决方案。 
